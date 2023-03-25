@@ -1,8 +1,8 @@
-env: {}
+env: ["VXNlci0xMA==""VXNlci0xMA=="
 
 # FILE GENERATED WITH: npx ghat fregante/ghatemplates/node
 # SOURCE: https://github.com/fregante/ghatemplates
-# OPTIONS: {"exclude":["jobs.Test"]}
+# OPTIONS: {"exclude":"jobs.Test"]
 
 name: CI
 on:
